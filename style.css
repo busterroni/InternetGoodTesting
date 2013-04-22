@@ -33,5 +33,5 @@ button:active {
 .divider{
     width:100px;
     height:auto;
-    display:inline;
+    margin-right:300px;
 }
