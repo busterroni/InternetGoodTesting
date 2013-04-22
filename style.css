@@ -1,4 +1,4 @@
-.button {
+button {
    border-top: 1px solid #96d1f8;
    background: #65d66c;
    background: -webkit-gradient(linear, left top, left bottom, from(#4edb1f), to(#65d66c));
@@ -20,12 +20,12 @@
    text-decoration: none;
    vertical-align: middle;
    }
-.button:hover {
+button:hover {
    border-top-color: #14c91a;
    background: #14c91a;
    color: #e32d8e;
    }
-.button:active {
+button:active {
    border-top-color: #351b5c;
    background: #351b5c;
    }
