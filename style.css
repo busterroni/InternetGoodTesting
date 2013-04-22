@@ -20,12 +20,12 @@ button {
    text-decoration: none;
    vertical-align: middle;
    }
-.button:hover {
+button:hover {
    border-top-color: #14c91a;
    background: #14c91a;
    color: #e32d8e;
    }
-.button:active {
+button:active {
    border-top-color: #351b5c;
    background: #351b5c;
    }
