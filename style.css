@@ -30,5 +30,10 @@ button:active {
    background: #351b5c;
    }
 .SBB{
-   margin-right:30px;
+     clear:left;
+  height:25px;
+  margin-top:20px;
+  margin-right:20px;
+  margin-bottom:20px;
+  margin-left:20px;
 }
