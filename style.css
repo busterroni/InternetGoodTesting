@@ -29,3 +29,8 @@ button:active {
    border-top-color: #351b5c;
    background: #351b5c;
    }
+
+.home{
+   float:left;
+   margin-right:200px;
+}
