@@ -29,3 +29,9 @@ button:active {
    border-top-color: #351b5c;
    background: #351b5c;
    }
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
