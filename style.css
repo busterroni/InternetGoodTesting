@@ -35,7 +35,6 @@
 {
     background:#3ea5ea;
     color:#000;
-    text-align:center;
 }
 .main_menu ul li ul
 {
@@ -45,7 +44,7 @@
      top:30px;
      padding:0px;
      margin:0px;
-     
+     text-align:center;
 }
 .main_menu ul li:hover ul
 {
