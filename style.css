@@ -10,7 +10,7 @@
 }
 .main_menu ul
 {
-    padding:100px;
+    padding:0px;
     margin:0;
     list-style:none;
 }
@@ -21,6 +21,7 @@
     border-right:1px solid #000000;
     float:left;
     background:#333333;
+    width:300px;
 }
 .main_menu ul li a
 {
