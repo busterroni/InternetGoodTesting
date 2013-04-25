@@ -10,10 +10,9 @@
 }
 .main_menu ul
 {
-    padding:0px;
+    padding:100px;
     margin:0;
     list-style:none;
-    width:1000px;
 }
 .main_menu ul li
 {
