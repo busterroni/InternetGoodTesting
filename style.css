@@ -74,6 +74,7 @@ button:active {
      top:30px;
      padding:0px;
      margin:0px;
+     
 }
 .main_menu ul li:hover ul
 {
@@ -98,7 +99,7 @@ button:active {
     color: #fff;
     padding:0 20px;
     display:block;
-    width:170px;
+    width:300px;
 }
 .main_menu ul li li a:hover
 {
